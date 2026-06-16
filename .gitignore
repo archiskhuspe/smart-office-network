@@ -1,0 +1,6 @@
+# Cisco Packet Tracer backups
+*.bak
+*.pkt.bak
+
+# macOS
+.DS_Store
